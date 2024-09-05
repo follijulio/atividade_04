@@ -1,11 +1,20 @@
 [
     {
+        "id": 10,
+        "nome": "Bicho-preguiça",
+        "descricao": "O bicho-preguiça é um mamífero arborícola nativo das florestas tropicais da América Central e do Sul. Conhecido por seus movimentos extremamente lentos, ele passa a maior parte do tempo pendurado de cabeça para baixo em árvores, usando suas garras longas e curvas para se segurar. Alimenta-se principalmente de folhas, flores e frutos, possuindo um sistema digestivo lento que contribui para seu ritmo de vida. Existem duas famílias de preguiças: a de dois dedos e a de três dedos. Elas são também excelentes nadadoras e costumam passar grande parte do dia dormindo, cerca de 15 a 20 horas.",
+        "regiao": "amazônia",
+        "imagem": "https://png.pngtree.com/png-vector/20240803/ourmid/pngtree-cute-sleeping-sloth-illustration-for-kids-png-image_13347819.png"
+    },
+
+    {
         "id": 9,
         "nome": "Jaguatirica",
         "descricao": "A jaguatirica (Leopardus pardalis) é um felino selvagem de médio porte encontrado nas Américas, desde o sul dos Estados Unidos até a Argentina. Ela possui pelagem amarelada com manchas pretas e é conhecida por sua habilidade de caça, sendo ágil e solitária. A jaguatirica habita florestas densas e regiões de vegetação fechada. Sua dieta é variada, incluindo pequenos mamíferos, aves e répteis. Esse animal é considerado vulnerável devido à perda de habitat e caça.",
         "regiao": "amazônia",
         "imagem": "https://png.pngtree.com/png-vector/20240818/ourmid/pngtree-a-beautiful-illustration-of-an-ocelot-wild-cat-native-to-central-png-image_13526349.png"
     },
+
     {
         "id": 8,
         "nome": "capivara",
@@ -13,6 +22,7 @@
         "regiao": "pantanal",
         "imagem": "https://png.pngtree.com/png-clipart/20240226/original/pngtree-capybara-isolated-rodentia-photo-png-image_14420395.png"
     },
+    
     {
         "id": 7,
         "nome": "peixe-boi-amazônico",
@@ -20,6 +30,7 @@
         "regiao": "amazônia",
         "imagem": "https://png.pngtree.com/png-vector/20240720/ourmid/pngtree-graceful-manatee-on-png-image_13161067.png"
     },
+
     {
         "id": 6,
         "nome": "tartaruga-oliva",
