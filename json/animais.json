@@ -1,2 +1,9 @@
 [
+    {
+        "id": 6,
+        "nome": "tartaruga-oliva",
+        "descricao": "A tartaruga-oliva (Lepidochelys olivacea) é uma espécie de tartaruga marinha encontrada principalmente nas águas tropicais e subtropicais do Oceano Pacífico. Seu nome se deve à cor oliva de seu casco. É uma das menores tartarugas marinhas e tem um comportamento reprodutivo notável, com grandes desovas em praias específicas. Está ameaçada devido à perda de habitat, poluição e captura acidental em pesqueiros.",
+        "regiao": "nordeste",
+        "imagem": "https://png.pngtree.com/png-vector/20240706/ourmid/pngtree-red-eared-slider-basking-in-sunlight-olive-ridley-turtle-migration-patterns-png-image_13010495.png"
+    }
 ]
