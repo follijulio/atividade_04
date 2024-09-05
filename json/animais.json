@@ -1,5 +1,12 @@
 [
     {
+        "id": 7,
+        "nome": "peixe-boi-amazônico",
+        "descricao": "O peixe-boi-amazônico (Trichechus inunguis) é um mamífero aquático encontrado nos rios da Amazônia. Com corpo robusto e arredondado, pode medir até 2,8 metros e pesar cerca de 450 kg. Alimenta-se de plantas aquáticas, desempenhando papel vital no ecossistema ao controlar a vegetação. É pacífico e tem uma respiração pulmonar, precisando emergir regularmente para respirar. A espécie está ameaçada devido à caça e à degradação de seu habitat.",
+        "regiao": "amazônia",
+        "imagem": "https://png.pngtree.com/png-vector/20240720/ourmid/pngtree-graceful-manatee-on-png-image_13161067.png"
+    },
+    {
         "id": 6,
         "nome": "tartaruga-oliva",
         "descricao": "A tartaruga-oliva (Lepidochelys olivacea) é uma espécie de tartaruga marinha encontrada principalmente nas águas tropicais e subtropicais do Oceano Pacífico. Seu nome se deve à cor oliva de seu casco. É uma das menores tartarugas marinhas e tem um comportamento reprodutivo notável, com grandes desovas em praias específicas. Está ameaçada devido à perda de habitat, poluição e captura acidental em pesqueiros.",
