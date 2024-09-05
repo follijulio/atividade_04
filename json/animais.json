@@ -1,5 +1,12 @@
 [
     {
+        "id": 9,
+        "nome": "Jaguatirica",
+        "descricao": "A jaguatirica (Leopardus pardalis) é um felino selvagem de médio porte encontrado nas Américas, desde o sul dos Estados Unidos até a Argentina. Ela possui pelagem amarelada com manchas pretas e é conhecida por sua habilidade de caça, sendo ágil e solitária. A jaguatirica habita florestas densas e regiões de vegetação fechada. Sua dieta é variada, incluindo pequenos mamíferos, aves e répteis. Esse animal é considerado vulnerável devido à perda de habitat e caça.",
+        "regiao": "amazônia",
+        "imagem": "https://png.pngtree.com/png-vector/20240818/ourmid/pngtree-a-beautiful-illustration-of-an-ocelot-wild-cat-native-to-central-png-image_13526349.png"
+    },
+    {
         "id": 8,
         "nome": "capivara",
         "descricao": "A capivara (Hydrochoerus hydrochaeris) é o maior roedor do mundo, nativa da América do Sul. Com um corpo robusto, pode pesar até 65 kg e medir cerca de 1,30 m de comprimento. Vive em áreas próximas a rios, lagos e pântanos, sendo excelente nadadora. Alimenta-se de gramíneas e plantas aquáticas, e sua vida social é marcada por grupos de até 20 indivíduos. Apesar do tamanho, é dócil e pacífica, tendo poucos predadores naturais, como as onças.",
