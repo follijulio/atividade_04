@@ -1,5 +1,12 @@
 [
     {
+        "id": 8,
+        "nome": "capivara",
+        "descricao": "A capivara (Hydrochoerus hydrochaeris) é o maior roedor do mundo, nativa da América do Sul. Com um corpo robusto, pode pesar até 65 kg e medir cerca de 1,30 m de comprimento. Vive em áreas próximas a rios, lagos e pântanos, sendo excelente nadadora. Alimenta-se de gramíneas e plantas aquáticas, e sua vida social é marcada por grupos de até 20 indivíduos. Apesar do tamanho, é dócil e pacífica, tendo poucos predadores naturais, como as onças.",
+        "regiao": "pantanal",
+        "imagem": "https://png.pngtree.com/png-clipart/20240226/original/pngtree-capybara-isolated-rodentia-photo-png-image_14420395.png"
+    },
+    {
         "id": 7,
         "nome": "peixe-boi-amazônico",
         "descricao": "O peixe-boi-amazônico (Trichechus inunguis) é um mamífero aquático encontrado nos rios da Amazônia. Com corpo robusto e arredondado, pode medir até 2,8 metros e pesar cerca de 450 kg. Alimenta-se de plantas aquáticas, desempenhando papel vital no ecossistema ao controlar a vegetação. É pacífico e tem uma respiração pulmonar, precisando emergir regularmente para respirar. A espécie está ameaçada devido à caça e à degradação de seu habitat.",
