@@ -37,5 +37,45 @@
         "descricao": "A tartaruga-oliva (Lepidochelys olivacea) é uma espécie de tartaruga marinha encontrada principalmente nas águas tropicais e subtropicais do Oceano Pacífico. Seu nome se deve à cor oliva de seu casco. É uma das menores tartarugas marinhas e tem um comportamento reprodutivo notável, com grandes desovas em praias específicas. Está ameaçada devido à perda de habitat, poluição e captura acidental em pesqueiros.",
         "regiao": "nordeste",
         "imagem": "https://png.pngtree.com/png-vector/20240706/ourmid/pngtree-red-eared-slider-basking-in-sunlight-olive-ridley-turtle-migration-patterns-png-image_13010495.png"
+    },
+
+    {
+        "id": 5,
+        "nome": "tamanduá-bandeira",
+        "descricao": "O tamanduá-bandeira é um mamífero de grande porte encontrado na América Central e do Sul. Possui pelagem espessa, cauda longa com listras e garras poderosas usadas para abrir formigueiros e cupinzeiros. Alimenta-se exclusivamente de formigas e cupins, utilizando sua língua longa e pegajosa. É solitário, terrestre e habita áreas de cerrado, floresta e savana. Está ameaçado pela perda de habitat e caça, sendo classificado como espécie vulnerável.",
+        "regiao": "pantanal",
+        "imagem": "https://png.pngtree.com/png-vector/20220609/ourmid/pngtree-cute-anteater-isolated-on-white-background-png-image_4848611.png"
+    },
+
+    {
+        "id": 4,
+        "nome": "onça-pintada",
+        "descricao": "A onça-pintada é o maior felino das Américas e terceiro maior do mundo, atrás apenas do tigre e do leão. Possui um corpo robusto, patas fortes e uma pelagem amarela com manchas pretas em forma de rosetas. É um predador solitário e ágil, com hábitos noturnos, e se adapta a diversos habitats, como florestas, cerrados e áreas pantanosas. A onça-pintada é essencial para o equilíbrio ecológico, mas está ameaçada pela perda de habitat e caça.",
+        "regiao": "amazônia",
+        "imagem": "https://png.pngtree.com/png-clipart/20231008/original/pngtree-jaguar-transparent-background-png-image_13290634.png"
+    },
+
+    {
+        "id": 3,
+        "nome": "mico-leão-dourado",
+        "descricao": "O mico-leão-dourado é um pequeno primata nativo da Mata Atlântica brasileira. Reconhecido por sua exuberante pelagem dourada e tamanho reduzido, pesa em média 600 gramas. Vive em grupos familiares e é essencial para a dispersão de sementes na floresta. Considerado uma espécie em extinção, enfrenta ameaças como a perda de habitat e a fragmentação florestal, sendo alvo de projetos de conservação.",
+        "regiao": "mata atlântica",
+        "imagem": "https://png.pngtree.com/png-vector/20240613/ourmid/pngtree-golden-lion-tamarin-ape-hairy-cute-png-image_12663416.png"
+    },
+
+    {
+        "id": 2,
+        "nome": "arara-azul",
+        "descricao": "A arara-azul é uma grande ave nativa do Brasil, conhecida por seu plumagem azul vibrante e bico robusto. Com cerca de 1 metro de comprimento, é a maior das araras. Habita florestas tropicais e áreas de cerrado, alimentando-se principalmente de sementes, frutas e nozes. A espécie enfrenta ameaças devido à perda de habitat e tráfico ilegal de animais, tornando-a uma espécie vulnerável.",
+        "regiao": "pantanal",
+        "imagem": "https://png.pngtree.com/png-vector/20240204/ourmid/pngtree-blue-macaw-illustration-png-image_11612553.png"
+    },
+    
+    {
+        "id": 1,
+        "nome": "lobo-guará",
+        "descricao": "O lobo-guará é um canídeo nativo da América do Sul, conhecido por suas longas pernas e pelagem alaranjada com detalhes pretos. É o maior canídeo do continente e possui uma dieta onívora, com preferência por frutos e pequenos animais. Habita áreas de cerrado e savanas, sendo uma espécie importante para o equilíbrio ecológico. Ameaçado pela perda de habitat, é considerado vulnerável à extinção.",
+        "regiao": "cerrado",
+        "imagem": "https://cdn.pixabay.com/photo/2023/08/13/15/25/maned-wolf-8187819_1280.png"
     }
 ]
