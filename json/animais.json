@@ -37,5 +37,14 @@
         "descricao": "A tartaruga-oliva (Lepidochelys olivacea) é uma espécie de tartaruga marinha encontrada principalmente nas águas tropicais e subtropicais do Oceano Pacífico. Seu nome se deve à cor oliva de seu casco. É uma das menores tartarugas marinhas e tem um comportamento reprodutivo notável, com grandes desovas em praias específicas. Está ameaçada devido à perda de habitat, poluição e captura acidental em pesqueiros.",
         "regiao": "nordeste",
         "imagem": "https://png.pngtree.com/png-vector/20240706/ourmid/pngtree-red-eared-slider-basking-in-sunlight-olive-ridley-turtle-migration-patterns-png-image_13010495.png"
+    },
+    
+    {
+        "id": 5,
+        "nome": "tamanduá-bandeira",
+        "descricao": "O tamanduá-bandeira é um mamífero de grande porte encontrado na América Central e do Sul. Possui pelagem espessa, cauda longa com listras e garras poderosas usadas para abrir formigueiros e cupinzeiros. Alimenta-se exclusivamente de formigas e cupins, utilizando sua língua longa e pegajosa. É solitário, terrestre e habita áreas de cerrado, floresta e savana. Está ameaçado pela perda de habitat e caça, sendo classificado como espécie vulnerável.",
+        "regiao": "pantanal",
+        "imagem": "https://png.pngtree.com/png-vector/20220609/ourmid/pngtree-cute-anteater-isolated-on-white-background-png-image_4848611.png"
+    },
     }
 ]
