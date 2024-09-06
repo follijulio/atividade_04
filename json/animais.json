@@ -46,5 +46,13 @@
         "regiao": "pantanal",
         "imagem": "https://png.pngtree.com/png-vector/20220609/ourmid/pngtree-cute-anteater-isolated-on-white-background-png-image_4848611.png"
     },
+    
+    {
+        "id": 4,
+        "nome": "onça-pintada",
+        "descricao": "A onça-pintada é o maior felino das Américas e terceiro maior do mundo, atrás apenas do tigre e do leão. Possui um corpo robusto, patas fortes e uma pelagem amarela com manchas pretas em forma de rosetas. É um predador solitário e ágil, com hábitos noturnos, e se adapta a diversos habitats, como florestas, cerrados e áreas pantanosas. A onça-pintada é essencial para o equilíbrio ecológico, mas está ameaçada pela perda de habitat e caça.",
+        "regiao": "amazônia",
+        "imagem": "https://png.pngtree.com/png-clipart/20231008/original/pngtree-jaguar-transparent-background-png-image_13290634.png"
+    },
     }
 ]
