@@ -1,0 +1,41 @@
+[
+    {
+        "id": 10,
+        "nome": "Bicho-preguiça",
+        "descricao": "O bicho-preguiça é um mamífero arborícola nativo das florestas tropicais da América Central e do Sul. Conhecido por seus movimentos extremamente lentos, ele passa a maior parte do tempo pendurado de cabeça para baixo em árvores, usando suas garras longas e curvas para se segurar. Alimenta-se principalmente de folhas, flores e frutos, possuindo um sistema digestivo lento que contribui para seu ritmo de vida. Existem duas famílias de preguiças: a de dois dedos e a de três dedos. Elas são também excelentes nadadoras e costumam passar grande parte do dia dormindo, cerca de 15 a 20 horas.",
+        "regiao": "amazônia",
+        "imagem": "https://png.pngtree.com/png-vector/20240803/ourmid/pngtree-cute-sleeping-sloth-illustration-for-kids-png-image_13347819.png"
+    },
+
+    {
+        "id": 9,
+        "nome": "Jaguatirica",
+        "descricao": "A jaguatirica (Leopardus pardalis) é um felino selvagem de médio porte encontrado nas Américas, desde o sul dos Estados Unidos até a Argentina. Ela possui pelagem amarelada com manchas pretas e é conhecida por sua habilidade de caça, sendo ágil e solitária. A jaguatirica habita florestas densas e regiões de vegetação fechada. Sua dieta é variada, incluindo pequenos mamíferos, aves e répteis. Esse animal é considerado vulnerável devido à perda de habitat e caça.",
+        "regiao": "amazônia",
+        "imagem": "https://png.pngtree.com/png-vector/20240818/ourmid/pngtree-a-beautiful-illustration-of-an-ocelot-wild-cat-native-to-central-png-image_13526349.png"
+    },
+
+    {
+        "id": 8,
+        "nome": "capivara",
+        "descricao": "A capivara (Hydrochoerus hydrochaeris) é o maior roedor do mundo, nativa da América do Sul. Com um corpo robusto, pode pesar até 65 kg e medir cerca de 1,30 m de comprimento. Vive em áreas próximas a rios, lagos e pântanos, sendo excelente nadadora. Alimenta-se de gramíneas e plantas aquáticas, e sua vida social é marcada por grupos de até 20 indivíduos. Apesar do tamanho, é dócil e pacífica, tendo poucos predadores naturais, como as onças.",
+        "regiao": "pantanal",
+        "imagem": "https://png.pngtree.com/png-clipart/20240226/original/pngtree-capybara-isolated-rodentia-photo-png-image_14420395.png"
+    },
+    
+    {
+        "id": 7,
+        "nome": "peixe-boi-amazônico",
+        "descricao": "O peixe-boi-amazônico (Trichechus inunguis) é um mamífero aquático encontrado nos rios da Amazônia. Com corpo robusto e arredondado, pode medir até 2,8 metros e pesar cerca de 450 kg. Alimenta-se de plantas aquáticas, desempenhando papel vital no ecossistema ao controlar a vegetação. É pacífico e tem uma respiração pulmonar, precisando emergir regularmente para respirar. A espécie está ameaçada devido à caça e à degradação de seu habitat.",
+        "regiao": "amazônia",
+        "imagem": "https://png.pngtree.com/png-vector/20240720/ourmid/pngtree-graceful-manatee-on-png-image_13161067.png"
+    },
+
+    {
+        "id": 6,
+        "nome": "tartaruga-oliva",
+        "descricao": "A tartaruga-oliva (Lepidochelys olivacea) é uma espécie de tartaruga marinha encontrada principalmente nas águas tropicais e subtropicais do Oceano Pacífico. Seu nome se deve à cor oliva de seu casco. É uma das menores tartarugas marinhas e tem um comportamento reprodutivo notável, com grandes desovas em praias específicas. Está ameaçada devido à perda de habitat, poluição e captura acidental em pesqueiros.",
+        "regiao": "nordeste",
+        "imagem": "https://png.pngtree.com/png-vector/20240706/ourmid/pngtree-red-eared-slider-basking-in-sunlight-olive-ridley-turtle-migration-patterns-png-image_13010495.png"
+    }
+]
