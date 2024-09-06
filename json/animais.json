@@ -62,5 +62,13 @@
         "regiao": "mata atlântica",
         "imagem": "https://png.pngtree.com/png-vector/20240613/ourmid/pngtree-golden-lion-tamarin-ape-hairy-cute-png-image_12663416.png"
     },
+    
+    {
+        "id": 2,
+        "nome": "arara-azul",
+        "descricao": "A arara-azul é uma grande ave nativa do Brasil, conhecida por seu plumagem azul vibrante e bico robusto. Com cerca de 1 metro de comprimento, é a maior das araras. Habita florestas tropicais e áreas de cerrado, alimentando-se principalmente de sementes, frutas e nozes. A espécie enfrenta ameaças devido à perda de habitat e tráfico ilegal de animais, tornando-a uma espécie vulnerável.",
+        "regiao": "pantanal",
+        "imagem": "https://png.pngtree.com/png-vector/20240204/ourmid/pngtree-blue-macaw-illustration-png-image_11612553.png"
+    },
     }
 ]
