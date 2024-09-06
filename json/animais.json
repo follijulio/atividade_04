@@ -70,5 +70,12 @@
         "regiao": "pantanal",
         "imagem": "https://png.pngtree.com/png-vector/20240204/ourmid/pngtree-blue-macaw-illustration-png-image_11612553.png"
     },
+    
+    {
+        "id": 1,
+        "nome": "lobo-guará",
+        "descricao": "O lobo-guará é um canídeo nativo da América do Sul, conhecido por suas longas pernas e pelagem alaranjada com detalhes pretos. É o maior canídeo do continente e possui uma dieta onívora, com preferência por frutos e pequenos animais. Habita áreas de cerrado e savanas, sendo uma espécie importante para o equilíbrio ecológico. Ameaçado pela perda de habitat, é considerado vulnerável à extinção.",
+        "regiao": "cerrado",
+        "imagem": "https://cdn.pixabay.com/photo/2023/08/13/15/25/maned-wolf-8187819_1280.png"
     }
 ]
