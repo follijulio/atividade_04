@@ -99,5 +99,26 @@ nav {
     padding: 30px;
     border-radius: 10px;
     box-shadow: 0 15px 10px #4a634a;
+    width: 1100px;
+}
+
+.content-text{
+    border: 3px solid #4a634a;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 15px 10px #4a634a;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 25px;
+    width: 1100px
+}
+
+.content-text img{
+    width: 400px;
+    height: 400px;
+    border-radius: 10px;
+    border: 3px solid white;
 }
 
