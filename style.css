@@ -8,12 +8,17 @@
 body {
     font-family: "Inria Sans", sans-serif;
     font-weight: 500;
+    color: #fff;
     background-color: #2A332A;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
 }
 
 
 header {
-    background-color: #2A332A;
+    background-color: #ffffff00;
     padding: 20px 0;
 }
 
@@ -24,6 +29,8 @@ nav {
     align-items: center;
     max-width: 1300px;
     margin: 0 auto;
+    margin-bottom: 10px;
+    padding: 20px;
 }
 
 
@@ -72,3 +79,25 @@ nav {
 .submenu li a {
     padding: 10px 20px;
 }
+
+.content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-right: 70px;
+    margin-left: 70px;
+    text-align: justify;
+    gap: 30px;
+}
+.content h1{
+    font-size: 45px;    
+}
+
+#home-text{
+    border: 3px solid #4a634a;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 15px 10px #4a634a;
+}
+
