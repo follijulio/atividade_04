@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "nome": "Amazônia",
+      "imagem": "https://www.caf.com/media/2244064/la-riqueza-natural-de-la-amazonia-como-base-del-desarrollo-sostenible-regional.jpg",
+      "descricao": "A Amazônia é a maior floresta tropical do mundo, abrangendo nove países sul-americanos, com cerca de 60% de sua extensão localizada no Brasil. Este bioma é conhecido pela sua incomparável biodiversidade, abrigando milhões de espécies de plantas, animais e insetos, muitas das quais ainda não foram catalogadas pela ciência. Além de sua riqueza biológica, a Amazônia desempenha um papel crucial na regulação climática global e na produção de oxigênio, sendo chamada de 'pulmão do mundo'. No entanto, enfrenta ameaças contínuas devido ao desmatamento ilegal, mineração e mudanças climáticas."
+    },
+    {
+      "id": 2,
+      "nome": "Mata Atlântica",
+      "imagem": "https://static.mundoeducacao.uol.com.br/mundoeducacao/2020/06/area-da-mata-atlantica.jpg",
+      "descricao": "A Mata Atlântica é um dos biomas mais ricos em biodiversidade do planeta e também um dos mais ameaçados. Originalmente, este bioma se estendia ao longo da costa atlântica do Brasil, desde o Rio Grande do Norte até o Rio Grande do Sul, e também em partes do Paraguai e Argentina. Hoje, resta menos de 12% de sua cobertura original, principalmente devido à urbanização e ao desmatamento para agricultura. A Mata Atlântica é lar de espécies endêmicas, ou seja, que não existem em nenhum outro lugar do mundo, como o mico-leão-dourado e diversas espécies de plantas e aves. Sua conservação é vital para a preservação desses ecossistemas únicos."
+    },
+    {
+      "id": 3,
+      "nome": "Cerrado",
+      "imagem": "https://media.istockphoto.com/id/1180879558/pt/foto/landscape-of-brazilian-cerrado.jpg?s=612x612&w=0&k=20&c=P0c5b4ozGbmIGYYupsnjJyJHsbuVCoLq8SkM83tc20w=",
+      "descricao": "O Cerrado é a maior savana tropical da América do Sul, localizado principalmente no Brasil Central. Conhecido como o 'berço das águas', ele abriga nascentes que alimentam as principais bacias hidrográficas do país, como as bacias do Rio São Francisco, Rio Paraná e Rio Tocantins. Este bioma é extremamente rico em biodiversidade, com mais de 12 mil espécies de plantas e grande variedade de mamíferos, aves, répteis e insetos. Apesar de sua importância ecológica, o Cerrado está ameaçado pela expansão agrícola e pecuária, perdendo uma parte significativa de sua vegetação nativa a cada ano."
+    },
+    {
+      "id": 4,
+      "nome": "Pantanal",
+      "imagem": "https://static.todamateria.com.br/upload/bi/om/biomapantanal-0-cke.jpg?auto_optimize=low",
+      "descricao": "O Pantanal é a maior planície alagável do planeta, localizado principalmente nos estados brasileiros de Mato Grosso e Mato Grosso do Sul, com pequenas partes em países vizinhos como Bolívia e Paraguai. Este bioma é caracterizado por suas grandes inundações sazonais, que ocorrem devido à subida do nível das águas dos rios, criando um habitat ideal para uma rica fauna, incluindo jacarés, capivaras, onças-pintadas e uma vasta diversidade de aves. A biodiversidade do Pantanal é extraordinária, e a região é um dos destinos turísticos mais importantes do Brasil para observação de vida selvagem. No entanto, o Pantanal enfrenta ameaças como a mudança no regime hídrico, incêndios e pressão do agronegócio."
+    }
+  ]
+  
